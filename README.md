@@ -34,14 +34,15 @@ The To-Do List App is a simple command-line interface (CLI) application built in
    ```
 
 ## Usage
-Choose options from the menu by entering the corresponding number.
-Follow the prompts to perform actions such as adding, updating, or deleting tasks.
-Use the sorting option to arrange tasks based on priority, due date, or creation date.
-Mark tasks as complete when they are done.
-Save your tasks and exit when finished.
-File Structure
-main.py: Main script containing the To-Do List App implementation.
-tasks.pkl: Default file to save/load tasks. This can be changed using the --file option.
+- Choose options from the menu by entering the corresponding number.
+- Follow the prompts to perform actions such as adding, updating, or deleting tasks.
+- Use the sorting option to arrange tasks based on priority, due date, or creation date.
+- Mark tasks as complete when they are done.
+- Save your tasks and exit when finished.
+
+##File Structure
+- main.py: Main script containing the To-Do List App implementation.
+- tasks.pkl: Default file to save/load tasks. This can be changed using the --file option.
 
 Acknowledgments
 Inspired by the need for a simple and effective to-do list management tool.
