@@ -25,7 +25,7 @@ The To-Do List App is a simple command-line interface (CLI) application built in
 2. Change the project directory
 
   ```bash
-    cd todo-list-app
+      cd todo-list-app
   ```
 3. Run the app:
 
