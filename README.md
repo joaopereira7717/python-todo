@@ -46,5 +46,6 @@ The To-Do List App is a simple command-line interface (CLI) application built in
 - main.py: Main script containing the To-Do List App implementation.
 - tasks.pkl: Default file to save/load tasks. This can be changed using the --file option.
 
-Acknowledgments
+## Acknowledgments
+
 Inspired by the need for a simple and effective to-do list management tool.
